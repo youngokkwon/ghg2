@@ -1,0 +1,28 @@
+{
+  "companies": [
+    {
+      "companyId": "C001",
+      "companyName": "OO산업",
+      "bizNo": "123-45-67890",
+      "email": "esg@company.com",
+      "managerName": "홍길동",
+      "managerPhone": "02-1234-5678"
+    },
+    {
+      "companyId": "C002",
+      "companyName": "ABC팩토리",
+      "bizNo": "111-22-33333",
+      "email": "carbon@factory.co.kr",
+      "managerName": "김담당",
+      "managerPhone": "031-222-3333"
+    },
+    {
+      "companyId": "C001_업체1",
+      "companyName": "㈜광명",
+      "bizNo": NaN,
+      "email": "whity1oves@gmail.com",
+      "managerName": NaN,
+      "managerPhone": NaN
+    }
+  ]
+}

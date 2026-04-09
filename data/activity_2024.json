@@ -1,0 +1,1183 @@
+{
+  "year": 2024,
+  "data": [
+    {
+      "companyId": "C001",
+      "sections": {
+        "fixed": [
+          {
+            "facility": "인쇄기",
+            "fuel": "프로판(LPG1호)",
+            "unit": "kg",
+            "months": [
+              59.0,
+              26.0,
+              14.0,
+              72.0,
+              24.0,
+              27.0,
+              31.0,
+              36.0,
+              21.0,
+              26.0,
+              32.0,
+              40.0
+            ]
+          }
+        ],
+        "mobile": [
+          {
+            "facility": "법인차량_휘발유",
+            "fuel": "휘발유",
+            "unit": "L",
+            "months": [
+              268.0,
+              236.0,
+              286.0,
+              269.0,
+              258.0,
+              271.0,
+              263.0,
+              263.0,
+              211.0,
+              248.0,
+              244.0,
+              261.0
+            ]
+          },
+          {
+            "facility": "법인차량_경유",
+            "fuel": "경유",
+            "unit": "L",
+            "months": [
+              2639.0,
+              2328.0,
+              2819.0,
+              2651.0,
+              2549.0,
+              2676.0,
+              2598.0,
+              2598.0,
+              2084.0,
+              2449.0,
+              2407.0,
+              2578.0
+            ]
+          }
+        ],
+        "electricity": [
+          {
+            "facility": "공장/사무동",
+            "fuel": "전기(소비기준)",
+            "unit": "kWh",
+            "months": [
+              42769.0,
+              57619.0,
+              47255.0,
+              49901.0,
+              34043.0,
+              30580.0,
+              33555.0,
+              24122.0,
+              32799.0,
+              24019.0,
+              28146.0,
+              35344.0
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "companyId": "C002",
+      "sections": {
+        "waste": [
+          {
+            "facility": NaN,
+            "fuel": NaN,
+            "unit": "kg",
+            "months": [
+              2.0,
+              1.0,
+              0.0,
+              3.0,
+              2.0,
+              1.0,
+              1.0,
+              2.0,
+              2.0,
+              1.0,
+              1.0,
+              2.0
+            ]
+          }
+        ],
+        "process": [
+          {
+            "facility": NaN,
+            "fuel": NaN,
+            "unit": "kg",
+            "months": [
+              10.0,
+              11.0,
+              12.0,
+              10.0,
+              11.0,
+              9.0,
+              8.0,
+              8.0,
+              9.0,
+              10.0,
+              11.0,
+              12.0
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "companyId": NaN,
+      "sections": {
+        "NaN": [
+          {
+            "facility": NaN,
+            "fuel": NaN,
+            "unit": NaN,
+            "months": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ]
+          },
+          {
+            "facility": NaN,
+            "fuel": NaN,
+            "unit": NaN,
+            "months": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ]
+          },
+          {
+            "facility": NaN,
+            "fuel": NaN,
+            "unit": NaN,
+            "months": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ]
+          },
+          {
+            "facility": NaN,
+            "fuel": NaN,
+            "unit": NaN,
+            "months": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ]
+          },
+          {
+            "facility": NaN,
+            "fuel": NaN,
+            "unit": NaN,
+            "months": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ]
+          },
+          {
+            "facility": NaN,
+            "fuel": NaN,
+            "unit": NaN,
+            "months": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ]
+          },
+          {
+            "facility": NaN,
+            "fuel": NaN,
+            "unit": NaN,
+            "months": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ]
+          },
+          {
+            "facility": NaN,
+            "fuel": NaN,
+            "unit": NaN,
+            "months": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ]
+          },
+          {
+            "facility": NaN,
+            "fuel": NaN,
+            "unit": NaN,
+            "months": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ]
+          },
+          {
+            "facility": NaN,
+            "fuel": NaN,
+            "unit": NaN,
+            "months": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ]
+          },
+          {
+            "facility": NaN,
+            "fuel": NaN,
+            "unit": NaN,
+            "months": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ]
+          },
+          {
+            "facility": NaN,
+            "fuel": NaN,
+            "unit": NaN,
+            "months": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ]
+          },
+          {
+            "facility": NaN,
+            "fuel": NaN,
+            "unit": NaN,
+            "months": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ]
+          },
+          {
+            "facility": NaN,
+            "fuel": NaN,
+            "unit": NaN,
+            "months": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ]
+          },
+          {
+            "facility": NaN,
+            "fuel": NaN,
+            "unit": NaN,
+            "months": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ]
+          },
+          {
+            "facility": NaN,
+            "fuel": NaN,
+            "unit": NaN,
+            "months": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ]
+          },
+          {
+            "facility": NaN,
+            "fuel": NaN,
+            "unit": NaN,
+            "months": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ]
+          },
+          {
+            "facility": NaN,
+            "fuel": NaN,
+            "unit": NaN,
+            "months": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ]
+          },
+          {
+            "facility": NaN,
+            "fuel": NaN,
+            "unit": NaN,
+            "months": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ]
+          },
+          {
+            "facility": NaN,
+            "fuel": NaN,
+            "unit": NaN,
+            "months": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ]
+          },
+          {
+            "facility": NaN,
+            "fuel": NaN,
+            "unit": NaN,
+            "months": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ]
+          },
+          {
+            "facility": NaN,
+            "fuel": NaN,
+            "unit": NaN,
+            "months": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ]
+          },
+          {
+            "facility": NaN,
+            "fuel": NaN,
+            "unit": NaN,
+            "months": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ]
+          },
+          {
+            "facility": NaN,
+            "fuel": NaN,
+            "unit": NaN,
+            "months": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ]
+          },
+          {
+            "facility": NaN,
+            "fuel": NaN,
+            "unit": NaN,
+            "months": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ]
+          },
+          {
+            "facility": NaN,
+            "fuel": NaN,
+            "unit": NaN,
+            "months": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ]
+          },
+          {
+            "facility": NaN,
+            "fuel": NaN,
+            "unit": NaN,
+            "months": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ]
+          },
+          {
+            "facility": NaN,
+            "fuel": NaN,
+            "unit": NaN,
+            "months": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ]
+          },
+          {
+            "facility": NaN,
+            "fuel": NaN,
+            "unit": NaN,
+            "months": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ]
+          },
+          {
+            "facility": NaN,
+            "fuel": NaN,
+            "unit": NaN,
+            "months": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ]
+          },
+          {
+            "facility": NaN,
+            "fuel": NaN,
+            "unit": NaN,
+            "months": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ]
+          },
+          {
+            "facility": NaN,
+            "fuel": NaN,
+            "unit": NaN,
+            "months": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ]
+          },
+          {
+            "facility": NaN,
+            "fuel": NaN,
+            "unit": NaN,
+            "months": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ]
+          },
+          {
+            "facility": NaN,
+            "fuel": NaN,
+            "unit": NaN,
+            "months": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ]
+          },
+          {
+            "facility": NaN,
+            "fuel": NaN,
+            "unit": NaN,
+            "months": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ]
+          },
+          {
+            "facility": NaN,
+            "fuel": NaN,
+            "unit": NaN,
+            "months": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ]
+          },
+          {
+            "facility": NaN,
+            "fuel": NaN,
+            "unit": NaN,
+            "months": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ]
+          },
+          {
+            "facility": NaN,
+            "fuel": NaN,
+            "unit": NaN,
+            "months": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ]
+          },
+          {
+            "facility": NaN,
+            "fuel": NaN,
+            "unit": NaN,
+            "months": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ]
+          },
+          {
+            "facility": NaN,
+            "fuel": NaN,
+            "unit": NaN,
+            "months": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ]
+          },
+          {
+            "facility": NaN,
+            "fuel": NaN,
+            "unit": NaN,
+            "months": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ]
+          },
+          {
+            "facility": NaN,
+            "fuel": NaN,
+            "unit": NaN,
+            "months": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ]
+          },
+          {
+            "facility": NaN,
+            "fuel": NaN,
+            "unit": NaN,
+            "months": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ]
+          },
+          {
+            "facility": NaN,
+            "fuel": NaN,
+            "unit": NaN,
+            "months": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ]
+          },
+          {
+            "facility": NaN,
+            "fuel": NaN,
+            "unit": NaN,
+            "months": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ]
+          },
+          {
+            "facility": NaN,
+            "fuel": NaN,
+            "unit": NaN,
+            "months": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ]
+          },
+          {
+            "facility": NaN,
+            "fuel": NaN,
+            "unit": NaN,
+            "months": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ]
+          },
+          {
+            "facility": NaN,
+            "fuel": NaN,
+            "unit": NaN,
+            "months": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ]
+          },
+          {
+            "facility": NaN,
+            "fuel": NaN,
+            "unit": NaN,
+            "months": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ]
+          },
+          {
+            "facility": NaN,
+            "fuel": NaN,
+            "unit": NaN,
+            "months": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "companyId": "C001_업체1",
+      "sections": {
+        "fixed": [
+          {
+            "facility": "인쇄기",
+            "fuel": "프로판(LPG1호)",
+            "unit": "kg",
+            "months": [
+              59.0,
+              26.0,
+              14.0,
+              72.0,
+              24.0,
+              27.0,
+              31.0,
+              36.0,
+              21.0,
+              26.0,
+              32.0,
+              40.0
+            ]
+          }
+        ],
+        "mobile": [
+          {
+            "facility": "법인차량_휘발유",
+            "fuel": "휘발유",
+            "unit": "L",
+            "months": [
+              267.5310163902569,
+              236.0628161607083,
+              285.8038148793655,
+              268.7455593273861,
+              258.4765987939589,
+              271.3398230410941,
+              263.4452939497543,
+              263.4452939497543,
+              211.3304710604782,
+              248.2635072356395,
+              244.0126069556874,
+              261.3477782973322
+            ]
+          },
+          {
+            "facility": "법인차량_경유",
+            "fuel": "경유",
+            "unit": "L",
+            "months": [
+              2638.541548822445,
+              2328.18878145193,
+              2818.76368379373,
+              2650.520067345893,
+              2549.247017016151,
+              2676.110175751486,
+              2598.249805349074,
+              2598.249805349074,
+              2084.262223079943,
+              2448.518323805974,
+              2406.593508973907,
+              2577.558911019571
+            ]
+          }
+        ],
+        "electricity": [
+          {
+            "facility": "공장/사무동",
+            "fuel": "전기(소비기준)",
+            "unit": "kWh",
+            "months": [
+              42769.0,
+              57619.0,
+              50938.0,
+              49901.0,
+              34043.0,
+              30580.0,
+              33555.0,
+              24580.0,
+              32799.0,
+              24019.0,
+              27786.0,
+              35344.0
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}
