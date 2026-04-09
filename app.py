@@ -92,6 +92,13 @@ def initialize_section_tables() -> None:
             st.session_state.tables_2025[key] = make_2025_df(section_key, rows)
 
 
+def ensure_table_exists(section_key: str, rows: list[dict]) -> str:
+    key = section_table_key(section_key)
+    if key not in st.session_state.tables_2025:
+        st.session_state.tables_2025[key] = make_2025_df(section_key, rows)
+    return key
+
+
 def collect_inputs_for_export() -> dict[str, str]:
     inputs = {}
     activity = st.session_state.activity or {"sections": {}}
@@ -99,7 +106,7 @@ def collect_inputs_for_export() -> dict[str, str]:
         rows = activity.get("sections", {}).get(section_key, [])
         if not rows:
             continue
-        table_key = section_table_key(section_key)
+        table_key = ensure_table_exists(section_key, rows)
         df = st.session_state.tables_2025.get(table_key)
         if df is None:
             continue
@@ -124,6 +131,7 @@ with st.container(border=True):
             st.session_state.lookup_done = False
             st.session_state.company = None
             st.session_state.activity = None
+            st.session_state.tables_2025 = {}
             st.error("일치하는 업체를 찾지 못했습니다.")
         else:
             st.session_state.lookup_done = True
@@ -136,6 +144,8 @@ with st.container(border=True):
 if st.session_state.lookup_done and st.session_state.company:
     company = st.session_state.company
     activity = st.session_state.activity or {"sections": {}}
+
+    initialize_section_tables()
 
     with st.container(border=True):
         st.subheader("기본정보")
@@ -156,7 +166,8 @@ if st.session_state.lookup_done and st.session_state.company:
 
             st.write("2025 입력값")
             st.caption("엑셀에서 여러 셀을 복사해 붙여넣을 수 있도록 표 형태 편집으로 바꿨습니다.")
-            table_key = section_table_key(section_key)
+            table_key = ensure_table_exists(section_key, rows)
+
             edited_df = st.data_editor(
                 st.session_state.tables_2025[table_key],
                 use_container_width=True,
